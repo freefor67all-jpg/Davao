@@ -1,0 +1,8 @@
+{
+  "name": "De Venom",
+  "short_name": "De Venom",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A1930",
+  "theme_color": "#0A1930"
+}
